@@ -1,5 +1,8 @@
 
-# Traning Java
+# Roadmap for Java Developer
+
+Step by step guide to becoming a modern Java developer in 2023
+
 ## Basic Stage 1 
 - [ ] Git 
   - [ ]  Watch https://www.youtube.com/watch?v=8JJ101D3knE
